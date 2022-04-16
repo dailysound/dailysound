@@ -1,5 +1,5 @@
 
-<h3 align="center">🛠 My Tech 🛠</h3>
+<p><h3 align="center">🛠 My Tech 🛠</h3></p>
 
 <p align="center">Techs that I've used at least once</p>
 
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🐰 My SNS 🐰
+<p><h3 align="center">🐰 My SNS 🐰</h3></p>
 
 <p align="center">
   <a href="https://www.instagram.com/y_e_sol_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/y_e_sol_lee/"/></a>
