@@ -21,3 +21,7 @@
   <a href="https://blog.naver.com/jackey6493/"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/jackey6493/"/></a>
   <a href="https://github.com/dailysound/"><img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dailysound/"/></a>
 </p>
+
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailysound&langs_count=8)](https://github.com/dailysound/github-readme-stats)
+</p>
