@@ -1,4 +1,4 @@
-<p><h1 align="center">YESOL-LEE's Git Page</h1></p>
+<p><h2 align="center">YESOL's Git Page</h2></p>
 
 
 <p><h3 align="center">🛠 My Tech 🛠</h3></p>
