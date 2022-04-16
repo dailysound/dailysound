@@ -45,6 +45,3 @@
 </p>
 <br>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailysound&anuraghazra&langs_count=8)](https://github.com/dailysound/github-readme-stats)
-
