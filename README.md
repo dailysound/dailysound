@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=YeSol's%20Git%20Page&fontColor=808080&animation=fadeIn&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=YeSol's%20Git%20Page&fontColor=404040&animation=fadeIn&fontSize=65)
 
 <p><h2 align="left">🛠 My Tech 🛠</h2></p>
 
