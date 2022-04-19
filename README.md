@@ -21,7 +21,7 @@
 <p align="left">
   <b>1. Responsive Web<br>
   <b>2. 컴퓨터활용능력 필기<br>
-  <b>3. Coding test
+  <b>3. Programmers Coding Test
 </p>
 
 <br>
