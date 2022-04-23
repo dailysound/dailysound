@@ -27,7 +27,7 @@
 <br>
 <br>
     
-<p><h2 align="left">🐰 Contact 🐰</h2></p>
+<p><h2 align="left">🐰 Me 🐰</h2></p>
 
 <p align="left">
   detail profile, click notion icon 👉
