@@ -42,6 +42,7 @@
 <p><h2 align="left">🎵 Language 🎵</h2></p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailysound&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jackey6493)](https://solved.ac/jackey6493)
     
 
 <!-- <p><h3 align="center">📜 Certificate 📜</h3></p>
