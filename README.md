@@ -16,12 +16,12 @@
 
 <br>
 <br>
-<p><h2 align="left">📖 Studying 📖</h2></p>
+<p><h2 align="left">📖 Studying & Plan 📖</h2></p>
 
 <p align="left">
-  <b>1. Responsive Web<br>
-  <b>2. 컴퓨터활용능력 필기<br>
-  <b>3. Programmers Coding Test
+  <b>1. Web Design(Publisher) [2022.06.23 - 2022.09.15]<br>
+  <b>2. BaekJoon & Programmers Coding Practice<br>
+  <b>3. Web Portfolio
 </p>
 
 <br>
