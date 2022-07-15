@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=YeSol's%20Git%20Page&fontColor=404040&animation=fadeIn&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=YeSol's%20Git%20Page&fontColor=404040&animation=fadeIn&fontSize=60)
 
 <p><h2 align="left">🛠 My Tech 🛠</h2></p>
 
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 </p>
@@ -23,7 +23,8 @@
 <p align="left">
   <b>1. Web Design(Publisher) [2022.06.23 - 2022.09.15]<br>
   <b>2. BaekJoon & Programmers Coding Practice<br>
-  <b>3. Web Portfolio
+  <b>3. Web Portfolio<br>
+  <b>4. Programmers - 자바스크립트와 웹 프론트엔드
 </p>
 
 <br>
